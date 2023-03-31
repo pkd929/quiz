@@ -5,7 +5,7 @@ import QuizResult from './QuizResult';
 
 function App() {
   return (
-    <div className="App">
+    <div>
      <Quiz />
      <QuizResult />
     </div>
